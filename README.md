@@ -1,5 +1,5 @@
 # RapidMiner to build and visualize data science workflow
-A comprehensive platform to visualize and fully automate data science workflow
+A comprehensive platform to visualize and fully automate data science workflow\
 Authors - Satish C Shreenivasa, Sandeep Vemulapalli
 
 ## Overview
